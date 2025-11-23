@@ -1,0 +1,12 @@
+# Android / IntelliJ
+.gradle
+/local.properties
+/.idea
+/captures
+.externalNativeBuild
+*/build/
+*/bin/
+*.iml
+*.apk
+*.ap_
+*.db
