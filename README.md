@@ -1,6 +1,6 @@
 # Habit Tracker App
 
-A **Habit Tracker App** built with **Kotlin**, **MVVM architecture**, and **Room database** for Android.  
+A **Habit Tracker App** built with **Kotlin**, **MVVM architecture**, and **Room database** for Android in 2022.
 This app helps users track daily habits, maintain streaks, and visualize progress.
 
 ---
@@ -25,7 +25,7 @@ This app helps users track daily habits, maintain streaks, and visualize progres
 
 ## 📁 Project Structure
 
-'
+```
 habit-tracker-full/
 ├── app/ # Android app module
 ├── build.gradle
