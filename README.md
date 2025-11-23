@@ -32,4 +32,6 @@ habit-tracker-full/
 ├── settings.gradle
 ├── README.md
 └── ...other project files
-'''
+```
+
+<img src="screenshot.png" alt="My Screenshot" width="400">
