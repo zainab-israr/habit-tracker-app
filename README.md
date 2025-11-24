@@ -5,7 +5,7 @@ This app helps users track daily habits, maintain streaks, and visualize progres
 
 ---
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 - **Language:** Kotlin  
 - **Architecture:** MVVM (Model-View-ViewModel)  
 - **Database:** Room (SQLite)  
@@ -14,7 +14,7 @@ This app helps users track daily habits, maintain streaks, and visualize progres
 
 ---
 
-## ⚡ Features
+## Features
 - Add, edit, and delete habits  
 - Track daily progress and streaks  
 - Mark habits as done/not done each day  
@@ -23,7 +23,7 @@ This app helps users track daily habits, maintain streaks, and visualize progres
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 habit-tracker-full/
